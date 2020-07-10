@@ -5,6 +5,7 @@
 ```
 Anaconda Python
 > conda install jupyter
+> jupyter notebook
 
 Servicio PHP corriendo (myserver) *** solo usuarios en dicha red ***
 ```
